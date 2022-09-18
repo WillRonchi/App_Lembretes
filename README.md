@@ -1,4 +1,4 @@
-### Aplicativo de lembretes desenvolvido em flutter;
+### Aplicativo de lembretes desenvolvido em flutter
 
 - Instituição: Católica de Jarguá do Sul
 - Período: 3° Semestre
