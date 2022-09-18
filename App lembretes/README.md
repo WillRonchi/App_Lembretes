@@ -4,4 +4,4 @@ Projeto em Flutter
 
 ## Descrição
 
-Aplicativo desenvolvido em flutter na IDE Andoird Studio
+Aplicativo desenvolvido em flutter na IDE Android Studio
