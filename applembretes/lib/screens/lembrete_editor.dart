@@ -52,6 +52,7 @@ class _LembreteEditorState extends State<LembreteEditor> {
                 border: OutlineInputBorder(
                   borderSide: BorderSide.none,
                   borderRadius: BorderRadius.circular(8.0),
+
                 ),
               ),
             ),
@@ -117,7 +118,7 @@ class _LembreteEditorState extends State<LembreteEditor> {
                         );
                       }
                     },
-                    fillColor: Colors.lightBlue,
+                    fillColor: Colors.cyan,
                     child: Text(
                       widget.lembrete == null
                           ? 'Adicionar Lembrete'

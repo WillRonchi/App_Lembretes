@@ -35,9 +35,9 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  hive_flutter:
-  path_provider:
-  date_format:
+  hive_flutter:   #É um banco de dados com comunicação ao NoSQL;
+  path_provider:  #encontrar locais no sistema de arquivos (await);
+  date_format:    #plugin de datas no flutter;
 
 dev_dependencies:
   flutter_test:

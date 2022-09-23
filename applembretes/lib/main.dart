@@ -37,10 +37,6 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.grey.shade800,
-      appBar: AppBar(
-        elevation: 0.0,
-        backgroundColor: Colors.grey.shade900,
-      ),
       body: ValueListenableBuilder<Box<Lembrete>>(
           valueListenable: Hive.box<Lembrete>("Lembretes").listenable(),
           builder: (context, box, _) {
